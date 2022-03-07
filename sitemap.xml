@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pavancv.github.io/chintana/</loc>
-    <lastmod>2022-02-21T10:43:44+05:45</lastmod>
-  </url><url>
     <loc>https://pavancv.github.io/chintana/books/</loc>
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
     <loc>https://pavancv.github.io/chintana/books/geeta/chapter14/</loc>
+    <lastmod>2022-02-21T10:43:44+05:45</lastmod>
+  </url><url>
+    <loc>https://pavancv.github.io/chintana/</loc>
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
     <loc>https://pavancv.github.io/chintana/books/geeta/chapter4/</loc>
