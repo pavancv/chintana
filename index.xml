@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attempt2</title>
+    <link>https://pavancv.github.io/chintana/</link>
+    <description>Recent content on Attempt2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 10:43:44 +0545</lastBuildDate><atom:link href="https://pavancv.github.io/chintana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>श्लोक १.१ - अर्जुनविशादयोग</title>
+      <link>https://pavancv.github.io/chintana/books/geeta/chapter1/shloka1/</link>
+      <pubDate>Sun, 20 Feb 2022 10:43:44 +0530</pubDate>
+      
+      <guid>https://pavancv.github.io/chintana/books/geeta/chapter1/shloka1/</guid>
+      <description>श्लोक १.१  धर्म क्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |
+मामकाः पन्डवश्चैव किमकर्वत सन्जय || १.१ ||
+    श्रीराघवेन्द्रतीर्थविरचित गीताविवृत्तिः धर्म इति - धर्मसाधनभूमौ कुरुक्षेत्रे युयुत्सवः युध्दमिच्छन्त एव समवेता मिळिताः सन्तो मामका मदीयाः दुर्योधनादयः पाण्डवाश्च हे सञ्जय किमकुर्वत? इति शब्दो योज्यः । पाण्डवानां भगवत्प्रियत्वं सर्वसाक्षिकमप्यजानन्धृतराष्ट्रः स्वपुत्राणां विजयविविदिषया सञ्जय पप्रच्छ इत्यर्थः ।   </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://pavancv.github.io/chintana/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancv.github.io/chintana/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>श्लोक २.१</title>
+      <link>https://pavancv.github.io/chintana/books/geeta/chapter2/sloka1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancv.github.io/chintana/books/geeta/chapter2/sloka1/</guid>
+      <description>Chapter 2 </description>
+    </item>
+    
+    <item>
+      <title>श्लोक ३.१</title>
+      <link>https://pavancv.github.io/chintana/books/geeta/chapter3/sloka1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancv.github.io/chintana/books/geeta/chapter3/sloka1/</guid>
+      <description>Chapter 2 </description>
+    </item>
+    
+  </channel>
+</rss>
