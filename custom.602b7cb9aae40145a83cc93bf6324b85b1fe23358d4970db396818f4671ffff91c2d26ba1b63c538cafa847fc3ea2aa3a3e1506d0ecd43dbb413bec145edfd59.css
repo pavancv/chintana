@@ -1,0 +1,22 @@
+
+body { 
+  /*padding-top: 55px; 
+  padding-bottom: 50px;*/
+  background-color:#f8ecc2;
+ /* height: 100%;*/
+  margin: 0;
+
+}
+
+p, code {
+  /*margin-bottom: .2em;*/
+}
+
+#main_content {
+  font-size:x-large;
+  /*position: relative;*/
+}
+#bg-shloka {
+  background-color:#f8e7a9;
+}
+
