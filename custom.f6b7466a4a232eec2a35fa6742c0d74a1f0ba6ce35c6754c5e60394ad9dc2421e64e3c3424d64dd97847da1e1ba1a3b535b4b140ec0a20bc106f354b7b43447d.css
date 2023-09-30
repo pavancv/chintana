@@ -1,0 +1,37 @@
+
+body { 
+  /*padding-top: 55px; */
+  padding-bottom: 50px;
+  background-color:#f8ecc2;
+ /* height: 100%;*/
+  margin: 0;
+
+}
+
+/* p {
+  / *margin-bottom: .2em;* /
+  font-size : 1.30rem;
+} */
+
+code {
+  /*margin-bottom: .2em;*/
+  font-size : 1.40rem;
+}
+
+.table {
+  --bs-table-bg:#f8e7a9;
+}
+
+#main_content {
+  /*font-size:x-large;*/
+  font-size : 1.40rem;
+  /*position: relative;*/
+}
+#bg-shloka {
+  background-color:#f8e7a9;
+}
+
+#bg-shloka-commentary {
+  background-color:#f8e7a9;
+}
+

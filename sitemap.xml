@@ -1142,6 +1142,9 @@
     <loc>https://pavancv.github.io/chintana/books/geeta/chapter1/shloka2/</loc>
     <lastmod>2022-03-08T07:18:45+05:30</lastmod>
   </url><url>
+    <loc>https://pavancv.github.io/chintana/books/sanskrit/sans_pratyahar/</loc>
+    <lastmod>2022-02-21T10:43:44+05:45</lastmod>
+  </url><url>
     <loc>https://pavancv.github.io/chintana/books/sanskrit/sans_chapter3/</loc>
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
@@ -1187,9 +1190,6 @@
     <loc>https://pavancv.github.io/chintana/books/geeta/chapter10/</loc>
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
-    <loc>https://pavancv.github.io/chintana/books/geeta/chapter11/</loc>
-    <lastmod>2022-02-21T10:43:44+05:45</lastmod>
-  </url><url>
     <loc>https://pavancv.github.io/chintana/books/geeta/chapter17/</loc>
     <lastmod>2022-02-21T10:43:44+05:45</lastmod>
   </url><url>
@@ -1210,5 +1210,7 @@
     <loc>https://pavancv.github.io/chintana/categories/</loc>
   </url><url>
     <loc>https://pavancv.github.io/chintana/tags/</loc>
+  </url><url>
+    <loc>https://pavancv.github.io/chintana/books/geeta/chapter11/</loc>
   </url>
 </urlset>
